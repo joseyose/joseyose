@@ -16,3 +16,9 @@ I'm a huge fan of continuous development, automated testing, clean code and simp
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11](https://github.com/joseyose/assetLoader/issues/11) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
+2. 🎉 Merged PR [#10](https://github.com/joseyose/assetLoader/pull/10) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
+3. 💪 Opened PR [#10](https://github.com/joseyose/assetLoader/pull/10) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
+4. 🎉 Merged PR [#9](https://github.com/joseyose/assetLoader/pull/9) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
+5. 💪 Opened PR [#9](https://github.com/joseyose/assetLoader/pull/9) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
+<!--END_SECTION:activity-->
