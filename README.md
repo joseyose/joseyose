@@ -13,3 +13,6 @@ I'm a huge fan of continuous development, automated testing, clean code and simp
 - 📬 How to reach me: Make a pull-request or tag me somewhere in here :)
 - 📝 Workin on setting up site for my thoughts
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
