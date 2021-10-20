@@ -16,9 +16,9 @@ I'm a huge fan of continuous development, automated testing, clean code and simp
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/joseyose/entrymaker/issues/5) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
-2. ❗️ Opened issue [#4](https://github.com/joseyose/entrymaker/issues/4) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
-3. ❗️ Opened issue [#3](https://github.com/joseyose/entrymaker/issues/3) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
-4. ❗️ Closed issue [#1](https://github.com/joseyose/entrymaker/issues/1) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
-5. 🎉 Merged PR [#2](https://github.com/joseyose/entrymaker/pull/2) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
+1. ❗️ Opened issue [#6](https://github.com/joseyose/entrymaker/issues/6) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
+2. ❗️ Opened issue [#5](https://github.com/joseyose/entrymaker/issues/5) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
+3. ❗️ Opened issue [#4](https://github.com/joseyose/entrymaker/issues/4) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
+4. ❗️ Opened issue [#3](https://github.com/joseyose/entrymaker/issues/3) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
+5. ❗️ Closed issue [#1](https://github.com/joseyose/entrymaker/issues/1) in [joseyose/entrymaker](https://github.com/joseyose/entrymaker)
 <!--END_SECTION:activity-->
