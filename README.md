@@ -8,8 +8,8 @@ Passionate and enthusiastic about programming languages, procedural tools develo
 
 I'm a huge fan of continuous development, automated testing, clean code and simple to use solutions for the betterment of a process or organization. 
 
-- 🛠 Tools: Python | C++ | Qt5 | Houdini | VEX
-- 📔 Currently geeking out about: Rust, three.js, AR/VR, Docker, and Jenkins.
+- 🛠 Tools: Python | Rust | C++ | QT | Houdini | VEX
+- 📔 Currently geeking out about: OpenGL, AR/VR.
 - 📬 How to reach me: Make a pull-request or tag me somewhere in here :)
 - 📝 Workin on setting up site for my thoughts
 
