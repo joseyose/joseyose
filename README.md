@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am an artist, a perpetual tinkerer and a software engineer.
+I am leader, lead vfx technical artist, and a software engineer.
 
 I find inspiration in the interactions of my daily life, the music I listen to, bike rides, my family and the things I hear and see around our beautiful cosmos. 
 
@@ -8,7 +8,7 @@ Passionate and enthusiastic about programming languages, procedural tools develo
 
 I'm a huge fan of continuous development, automated testing, clean code and simple to use solutions for the betterment of a process or organization. 
 
-- 🛠 Tools: Python | Rust | C++ | QT | Houdini | VEX
+- 🛠 Tools: Python | Rust | C++ | QT | Houdini | Unity 
 - 📔 Currently geeking out about: OpenGL, AR/VR.
 - 📬 How to reach me: Make a pull-request or tag me somewhere in here :)
 - 📝 Workin on setting up site for my thoughts
