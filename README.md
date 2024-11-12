@@ -9,16 +9,4 @@ Passionate and enthusiastic about programming languages, procedural tools develo
 I'm a huge fan of continuous development, automated testing, clean code and simple to use solutions for the betterment of a process or organization. 
 
 - 🛠 Tools: Python | Rust | C++ | QT | Houdini | Unity 
-- 📔 Currently geeking out about: OpenGL, AR/VR.
-- 📬 How to reach me: Make a pull-request or tag me somewhere in here :)
-- 📝 Workin on setting up site for my thoughts
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/joseyose/assetLoader/issues/12) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
-2. 🗣 Commented on [#12](https://github.com/joseyose/assetLoader/issues/12) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
-3. 🗣 Commented on [#12](https://github.com/joseyose/assetLoader/issues/12) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
-4. 🗣 Commented on [#12](https://github.com/joseyose/assetLoader/issues/12) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
-5. 🗣 Commented on [#12](https://github.com/joseyose/assetLoader/issues/12) in [joseyose/assetLoader](https://github.com/joseyose/assetLoader)
-<!--END_SECTION:activity-->
+- 📔 Currently working on: OpenGL, AR/VR.
